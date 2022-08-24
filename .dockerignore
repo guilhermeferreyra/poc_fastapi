@@ -1,0 +1,19 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+app/src/__pycache__/
+app/src/*/__pycache__/
+app/src/*/*/__pycache__/
+app/src/*/*/*/__pycache__/
+app/alembic/__pycache__
+.env/
+.venv/
+venv/
+
+# Misc
+hml/*
